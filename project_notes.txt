@@ -1,0 +1,30 @@
+
+Git location:
+https://github.com/AlanStruthers/PluralAdamTheSolution.git
+
+Created all objects per Adam's tutorial on PluralSite.
+
+Only difference: 
+	I named my project "TheSolution" rather than "SolutionName", so that I can easily tell when I am in my project.
+
+The Issue
+---------------------
+Cannot get "Create" page to work, as if it does not fire the action behind the "Save" button.
+
+I tried Adam's excersie files, from folder:
+	"3-parent-child-data-ef-m3-exercise-files", "after"
+It works.
+
+Attempted Solve
+---------------------
+Copied all of Adam's code directly into my files for these:
+	salesorderviewmodel.js
+	SalesController.cs
+	Create.cshtml
+
+Then I validated all files against Adam's files, for correct syntax and case in all other significant files.
+
+Result
+---------------------
+Still not working...
+

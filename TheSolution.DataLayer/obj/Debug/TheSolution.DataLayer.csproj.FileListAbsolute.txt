@@ -1,0 +1,12 @@
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.DataLayer\bin\Debug\TheSolution.DataLayer.dll.config
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.DataLayer\bin\Debug\TheSolution.DataLayer.dll
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.DataLayer\bin\Debug\TheSolution.DataLayer.pdb
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.DataLayer\bin\Debug\EntityFramework.dll
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.DataLayer\bin\Debug\TheSolution.Model.dll
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.DataLayer\bin\Debug\TheSolution.Model.pdb
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.DataLayer\bin\Debug\EntityFramework.xml
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.DataLayer\obj\Debug\TheSolution.DataLayer.csprojResolveAssemblyReference.cache
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.DataLayer\obj\Debug\TheSolution.DataLayer.dll
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.DataLayer\obj\Debug\TheSolution.DataLayer.pdb

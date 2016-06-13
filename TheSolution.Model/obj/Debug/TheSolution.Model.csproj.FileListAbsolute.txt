@@ -1,0 +1,4 @@
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.Model\bin\Debug\TheSolution.Model.dll
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.Model\bin\Debug\TheSolution.Model.pdb
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.Model\obj\Debug\TheSolution.Model.dll
+D:\Data\Development_Projects\PluralSite\ParentChild_wKnockoutJS\TheSolution\TheSolution.Model\obj\Debug\TheSolution.Model.pdb
